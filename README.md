@@ -1,2 +1,2 @@
-# HYU_AI2
-Hanyang University - AI2
+# Artificial Inteligence 2 - ICT4010
+Hanyang University - Artificial Inteligence 2
